@@ -1,7 +1,7 @@
 ember-array-utils
 ==============================================================================
 
-[Short description of the addon.]
+This addon provides similar array utility methods to the EmberArray prototype extensions.
 
 
 Compatibility
